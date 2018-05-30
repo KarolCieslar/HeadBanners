@@ -1,0 +1,9 @@
+name: HeadBanner
+version: 1.2
+author: GlobooX
+main: pl.globoox.HeadBanners.Main
+commands:
+  banner:
+    description: Open HeadBanners help menu
+    usage: User /banner to open help menu
+    aliases: [hbr, headbanners, headb, headbanners, banners]
